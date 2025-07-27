@@ -22,3 +22,23 @@ You will need a GitHub account with Copilot Pro+.
 
 Follow [this tutorial](https://docs.github.com/en/copilot/tutorials/build-apps-with-spark) to get started with Spark.
 
+You can use the [PRD File](PRD.md) file in this repo to check out my example of creating an Application that can do the following
+
+## Applicaiton Objectives
+
+A Web Application that can be used to manage customer profile information for users based in the United States. 
+
+The application will allow the user to perform CRUD operations with the records
+
+The web application will capture the following fields from the user and store it in the database:
+- Customer Id
+- First name
+- Last name
+- Email address
+- Street Address
+- Street Address 2
+- City 
+- State (two letter abbreviation)
+- Zipcode (5-digit zipcode)
+- Phone number in E.123 format
+- Email Address
