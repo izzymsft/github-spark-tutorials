@@ -41,4 +41,3 @@ The web application will capture the following fields from the user and store it
 - State (two letter abbreviation)
 - Zipcode (5-digit zipcode)
 - Phone number in E.123 format
-- Email Address
