@@ -1,6 +1,6 @@
-# Customer Database Management System
+# Contoso Client Management System
 
-A comprehensive web application for managing customer profile information for US-based customers with full CRUD capabilities and data persistence.
+A comprehensive web application for managing client profile information for US-based customers with full CRUD capabilities and data persistence.
 
 **Experience Qualities**:
 1. **Professional** - Clean, business-focused interface that inspires confidence in data management
