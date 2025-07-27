@@ -24,7 +24,7 @@ Follow [this tutorial](https://docs.github.com/en/copilot/tutorials/build-apps-w
 
 You can use the [PRD File](PRD.md) file in this repo to check out my example of creating an Application that can do the following
 
-## Applicaiton Objectives
+## Application Objectives
 
 A Web Application that can be used to manage customer profile information for users based in the United States. 
 
