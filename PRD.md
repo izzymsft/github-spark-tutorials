@@ -1,4 +1,4 @@
-# Contoso Client Management System
+# Izzy Client Management System
 
 A comprehensive web application for managing client profile information for US-based customers with full CRUD capabilities and data persistence. This application will persist all changes that are made to the customer records. All new records that are added will be persisted. All edits and deletes will also be persisted.
 
