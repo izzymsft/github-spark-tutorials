@@ -1,6 +1,6 @@
 # Contoso Client Management System
 
-A comprehensive web application for managing client profile information for US-based customers with full CRUD capabilities and data persistence.
+A comprehensive web application for managing client profile information for US-based customers with full CRUD capabilities and data persistence. This application will persist all changes that are made to the customer records. All new records that are added will be persisted. All edits and deletes will also be persisted.
 
 **Experience Qualities**:
 1. **Professional** - Clean, business-focused interface that inspires confidence in data management
@@ -54,6 +54,7 @@ This application manages customer records with create, read, update, delete oper
 - **Empty State Handling**: Friendly empty state when no customers exist
 - **Form Abandonment**: Unsaved changes warning when navigating away
 - **Network Errors**: Graceful handling of failed operations with retry options
+- **Data Persistence**: This application will persist all changes that are made to the customer records. All new records that are added will be persisted. All edits and deletes will also be persisted
 
 ## Design Direction
 The design should feel professional and trustworthy, similar to enterprise CRM systems but with modern, clean aesthetics. Minimal interface approach serves the data-focused nature while maintaining visual hierarchy for efficient scanning.
